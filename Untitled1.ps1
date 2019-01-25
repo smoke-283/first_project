@@ -23,6 +23,7 @@ $type = "application/json"
    # }
    # }
    $Uri = "$($env:SYSTEM_TEAMFOUNDATIONCOLLECTONURI)$env:SYSTEM_TEAMPROJECTID/_apis/build/builds?api-version=2.0"
+   Write-Host -BackgroundColor DarkGreen $Uri
    #$Uri = "https://dev.azure.com/vivolodko/First_project/_apis/build/builds?api-version=2.0"
    # $buildresponse = Invoke-RestMethod -Method Post -ContentType application/json -Uri $Uri -Headers $headers -Body (ConvertTo-Json $body) 
    # write-host "Definition = $($buildresponse | ConvertTo-Json -Depth 100)"   
