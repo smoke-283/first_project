@@ -3,7 +3,6 @@ D:\first-project\first-project\first-project\bin\Debug\netcoreapp2.0\first-proje
 D:\first-project\first-project\first-project\bin\Debug\netcoreapp2.0\first-project.runtimeconfig.dev.json
 D:\first-project\first-project\first-project\bin\Debug\netcoreapp2.0\first-project.dll
 D:\first-project\first-project\first-project\bin\Debug\netcoreapp2.0\first-project.pdb
-D:\first-project\first-project\first-project\obj\Debug\netcoreapp2.0\first-project.csprojResolveAssemblyReference.cache
 D:\first-project\first-project\first-project\obj\Debug\netcoreapp2.0\first-project.csproj.CoreCompileInputs.cache
 D:\first-project\first-project\first-project\obj\Debug\netcoreapp2.0\first-project.AssemblyInfoInputs.cache
 D:\first-project\first-project\first-project\obj\Debug\netcoreapp2.0\first-project.AssemblyInfo.cs
